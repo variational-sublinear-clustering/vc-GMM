@@ -1,6 +1,6 @@
 /******************************************************************************/
 //
-//	Copyright (C) 2018, Florian Hirschberger <florian.hirschberger@uol.de>
+//	Copyright (C) 2021, Florian Hirschberger <florian.hirschberger@uol.de>
 //
 //	LICENSE: THE SOFTWARE IS PROVIDED "AS IS" UNDER THE
 //	ACADEMIC FREE LICENSE (AFL) v3.0.
