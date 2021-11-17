@@ -17,3 +17,10 @@ Depending on the platform, the example program can then be compiled with e.g.
 
 from within the 'code-example' subdirectory.
 For better performance it is recommended to enable vector instructions e.g. with -mavx if available on the machine.
+
+The here provided source code of the sublinear clustering algorithms is intended for documentation and demonstrative purposes.
+
+A revised version with better documentation will follow soon.
+
+For detailed information please see the associated paper "A Variational EM Acceleration for Efficient Clustering at Very Large Scales"
+by (Hirschberger, Forster, Lücke) which will be linked to this website very soon.
