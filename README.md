@@ -22,5 +22,8 @@ The here provided source code of the sublinear clustering algorithms is intended
 
 A revised version with better documentation will follow soon.
 
-For detailed information please see the associated paper "A Variational EM Acceleration for Efficient Clustering at Very Large Scales"
-by (Hirschberger, Forster, Lücke) which will be linked to this website very soon.
+For detailed information please see the associated paper:
+
+"A Variational EM Acceleration for Efficient Clustering at Very Large Scales", Florian Hirschberger*, Dennis Forster*, Jörg Lücke.  
+<em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, in press, 2022.  
+*joint first authors. DOI:10.1109/TPAMI.2021.3133763, https://ieeexplore.ieee.org/document/9645327
